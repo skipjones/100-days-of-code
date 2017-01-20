@@ -6,16 +6,15 @@
 
 **Thoughts:** I had more hardware work at the office and no time at home for code. I did five challenges to keep going and I continued reading The Pragmatic Programmer.
 
-**Link to work:** 
+**Link to work:** none
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 17: January 20, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: More Javascript. If, Else if, Case and Switch
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Took me a while to get started but blew it up once I did. I am only quitting after 25 chalenges to go to a meeting. It's always better when you start. The stuff is getting more difficult and I needed to look a couple up to get started or run down my error. Tomorrow is the challenging day. The goal is a single challenge.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: none
 
 
 ### Day 1: June 27, Monday
